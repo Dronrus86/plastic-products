@@ -1074,18 +1074,16 @@ li {
     .header_background_img_container_text4 {
         font-size: 45px;
         font-weight: 700;
+    }
 
-
+    .button_application {
+        width: 370px;
+        padding: 50px;
+        font-size: 33px;
     }
 
 
-    /*.products_block {*/
-    /*    padding-top: 20px;*/
-    /*    display: block;*/
-    /*    !*display: flex;*!*/
-    /*    !*flex-wrap: wrap;*!*/
-    /*    justify-content: center;*/
-    /*}*/
+
     .main_container_products{
         padding-top: 50px;
         padding-bottom: 0;
@@ -1122,6 +1120,10 @@ li {
 
     .products_button_order {
         margin-bottom: 50px;
+        padding: 50px;
+        font-size: 30px;
+        width: 300px;
+
     }
 
     .finished_works_container {
@@ -1141,7 +1143,7 @@ li {
         text-align: center;
     }
     .text_main span {
-        font-size: 35px;
+        font-size: 30px;
 
     }
 
@@ -1157,12 +1159,12 @@ li {
 
 
     .circle {
-        height: 200px;
-        width: 200px;
+        height: 250px;
+        width: 250px;
     }
     .block_why_choose_us_icon img{
-        width: 70px;
-        height:70px ;
+        width: 90px;
+        height:90px ;
     }
 
     .block_why_choose_us_icon {
