@@ -989,7 +989,7 @@ li {
 
     .header_container_nav {
         width: auto;
-        height: 100px;
+        height: 140px;
         padding: 10px 30px;
         display: block;
 
@@ -1010,9 +1010,27 @@ li {
         padding: 0;
     }
 
+    .header_container_nav_text {
+        font-size: 25px;
+
+    }
+
+    .header_container_nav_item_tel {
+        font-size: 28px;
+    }
+
+    .header_container_nav_title_company {
+        font-size: 30px;
+    }
+
+    .header_container_nav_item_tel_icon {
+        width: 30px;
+        height: 30px;
+    }
+
     .header_background_img {
         width: 100%;
-        min-height: 400px;
+        min-height: 500px;
 
     }
 
@@ -1022,25 +1040,30 @@ li {
     }
 
     .header_background_img_container_text1 {
-        font-size: 30px;
+        font-size: 60px;
+        display: block;
+        padding-top: 20px;
+        padding-bottom: 20px;
+
 
     }
 
     .header_background_img_container_text2 {
-        font-size: 15vw;
+        font-size: 10vw;
 
     }
 
     .header_background_img_container_text3 {
-        font-size: 40px;
+        font-size: 60px;
         line-height: 24px;
         display: block;
         padding-top: 20px;
+        padding-bottom: 20px;
 
     }
 
     .header_background_img_container_text4 {
-        font-size: 28px;
+        font-size: 40px;
         font-weight: 400;
 
     }
@@ -1057,6 +1080,29 @@ li {
         padding-top: 50px;
         padding-bottom: 0;
     }
+
+    .block_text {
+        font-size: 35px;
+
+    }
+
+    .main_block_text_title {
+        font-size: 70px;
+    }
+
+    .products_title p {
+        font-size: 35px;
+    }
+    .products_description p {
+        font-size: 25px;
+
+    }
+
+    .products_price p {
+        font-size: 30px;
+
+    }
+
     .products_description p {
         text-align: center;
     }
