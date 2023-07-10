@@ -398,7 +398,7 @@ li {
 /*///////////////////////slider/////////////////////////////////////////////*/
 
 .slider {
-    width: 100%; /* ширина блоку зі слайдами */
+    /*width: 100%; */
     overflow: hidden;
     position: relative;
 
@@ -409,7 +409,7 @@ li {
     justify-content: space-between;
     /*height: 100%;*/
     transition: transform 0.5s;
-    width: 90%;
+    /*width: 90%;*/
     padding-top: 100px;
     margin: auto;
     /*    !*display: grid;*!*/
@@ -435,7 +435,6 @@ li {
 
 .slide {
     /*flex: 0 0 25%; !* Змінено на 20% щоб відображати 5 слайдів на екрані *!*/
-    height: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -457,6 +456,7 @@ li {
 /* Стилі для екранів з шириною менше або рівною 768px */
 @media (max-width: 768px) {
     .slide {
+        /*width: 90%;*/
         font-size: 18px;
         flex: 0 0 91%; /* Змінено на 50% для відображення 2 слайдів в ряд */
     }
@@ -938,7 +938,7 @@ li {
 .menu {
     z-index: 1;
     position: absolute;
-    width: 50%;
+    width: 16%;
     background: white;
     list-style-type: none;
     transform-origin: 0 0;
@@ -982,8 +982,8 @@ li {
     /*}*/
     .burger_menu_img img {
         display: block;
-        width: 50px;
-        height: 50px;
+        width: 64px;
+        height: 64px;
         cursor: pointer;
     }
 
@@ -1089,7 +1089,10 @@ li {
     .main_block_text_title {
         font-size: 70px;
     }
-
+.products_img{
+    width: 400px;
+    height: 300px;
+}
     .products_title p {
         font-size: 35px;
     }
