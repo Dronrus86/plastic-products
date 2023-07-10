@@ -1140,9 +1140,29 @@ li {
     .products_price p {
         text-align: center;
     }
+    .text_main span {
+        font-size: 35px;
 
+    }
+
+
+    .text_main_title span {
+        font-size: 65px;
+
+    }
     .finished_works_container {
         text-align: center;
+    }
+
+
+
+    .circle {
+        height: 200px;
+        width: 200px;
+    }
+    .block_why_choose_us_icon img{
+        width: 70px;
+        height:70px ;
     }
 
     .block_why_choose_us_icon {
@@ -1168,6 +1188,10 @@ li {
         width: 100%;
         padding: 0;
 
+    }
+
+    .block_white_text_about span {
+        font-size: 35px;
     }
 
     .block_white_about_mobile {
@@ -1206,6 +1230,7 @@ li {
     .block_contact_orange {
         width: 100%;
         border-radius: 0;
+        height: 200px;
     }
 
     .block_contact_orange p {
@@ -1216,7 +1241,7 @@ li {
 
     .section_bg_blue_img_footer {
         background-size: 420px auto;
-        height: 150px;
+        height: 250px;
     }
 
 
@@ -1224,7 +1249,7 @@ li {
         justify-content: space-evenly;
         padding: 10px 10px;
         width: auto;
-        height: auto;
+        height: 200px;
     }
 
     .block_contacts img {
