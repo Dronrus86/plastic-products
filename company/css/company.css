@@ -1,0 +1,50 @@
+.container_company{
+    width: 100%;
+    margin: auto;
+    display: flex;
+
+}
+.container_company_white_title h1{
+    font-family: Fira Sans Condensed, sans-serif;
+    font-size: 50px;
+    line-height: normal;
+    margin: 0 0 30px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    position: relative;
+    color: rgba(74 74 74);
+}
+.container_company_white_text h2{
+    font-family: Fira Sans Condensed, sans-serif;
+    font-size: 25px;
+    line-height: normal;
+    margin: 0 0 30px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    position: relative;
+    color: rgba(74 74 74);
+}
+
+.container_company_white_text span{
+    font-family: Fira Sans Condensed, sans-serif;
+    font-weight: bold;
+    color:rgba(29 29 29);
+    font-size: 20px;
+
+}
+
+.container_company_white_text p{
+
+    font-family: Fira Sans Condensed, sans-serif;
+    font-size: 15px;
+    color: inherit;
+    border-bottom-color: rgba(215 215 215);
+    padding-bottom: 30px;
+    margin-top: 5px;
+}
+
+.a{
+    float: right;
+}

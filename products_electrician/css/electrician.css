@@ -1,0 +1,68 @@
+.container_electrician{
+    width: 100%;
+    margin: auto;
+    display: flex;
+}
+
+.bg_blue{
+    background-color: rgba(46 83 255);
+
+
+}
+.container_electrician_white{
+    width: 1440px;
+    position: relative;
+    display: inline-block;
+    background-color: rgba(255 255 255);
+    padding: 60px 60px 80px;
+    border-radius: 20px 20px 0 0;
+    margin: 70px auto auto;
+
+}
+.container_electrician_white_title h1{
+    font-family: Fira Sans Condensed, sans-serif;
+    font-size: 50px;
+    line-height: normal;
+    margin: 0 0 30px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    position: relative;
+    color: rgba(74 74 74);
+
+}
+
+
+
+
+.block_electrician_orange_contacts{
+    max-width: 1440px;
+    margin: 0 auto;
+    position: relative;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    background-image: url("../../img/bg8.webp");
+    background-repeat: no-repeat;
+    background-position: left 0 top 0;
+    background-size: auto;
+    background-attachment: scroll;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    justify-content: space-around;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    background-color: rgba(255 83 30);
+    border-radius: 0 0 20px 20px;
+    border: 10px solid rgba(255 83 30);
+}
+.block_electrician_orange_contacts p{
+    font-family: Fira Sans Condensed, sans-serif;
+    font-size: 25px;
+    line-height: normal;
+    color: rgba(255 255 255);
+}
