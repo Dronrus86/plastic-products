@@ -989,7 +989,7 @@ li {
 
     .header_container_nav {
         width: auto;
-        height: 140px;
+        height: 200px;
         padding: 10px 30px;
         display: block;
 
@@ -1013,14 +1013,18 @@ li {
     .header_container_nav_text {
         font-size: 25px;
 
+
     }
 
     .header_container_nav_item_tel {
+        display: block;
+        padding-top: 20px;
         font-size: 28px;
     }
 
     .header_container_nav_title_company {
         font-size: 30px;
+
     }
 
     .header_container_nav_item_tel_icon {
@@ -1029,8 +1033,12 @@ li {
     }
 
     .header_background_img {
-        width: 100%;
-        min-height: 500px;
+        /*width: 100%;*/
+        /*min-height: 500px;*/
+        /*min-width: auto;*/
+        /*max-width: none;*/
+        background-size: auto;
+
 
     }
 
