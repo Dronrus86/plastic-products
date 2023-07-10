@@ -1011,7 +1011,7 @@ li {
     }
 
     .header_container_nav_text {
-        font-size: 25px;
+        font-size: 30px;
 
 
     }
@@ -1019,11 +1019,11 @@ li {
     .header_container_nav_item_tel {
         display: block;
         padding-top: 20px;
-        font-size: 28px;
+        font-size: 23px;
     }
 
     .header_container_nav_title_company {
-        font-size: 30px;
+        font-size: 33px;
 
     }
 
@@ -1048,7 +1048,7 @@ li {
     }
 
     .header_background_img_container_text1 {
-        font-size: 60px;
+        font-size: 65px;
         display: block;
         padding-top: 20px;
         padding-bottom: 20px;
@@ -1058,12 +1058,12 @@ li {
     }
 
     .header_background_img_container_text2 {
-        font-size: 10vw;
+        font-size: 11vw;
 
     }
 
     .header_background_img_container_text3 {
-        font-size: 60px;
+        font-size: 65px;
         line-height: 24px;
         display: block;
         padding-top: 20px;
@@ -1072,7 +1072,7 @@ li {
     }
 
     .header_background_img_container_text4 {
-        font-size: 40px;
+        font-size: 45px;
         font-weight: 700;
 
 
@@ -1092,27 +1092,27 @@ li {
     }
 
     .block_text {
-        font-size: 35px;
+        font-size: 40px;
 
     }
 
     .main_block_text_title {
-        font-size: 70px;
+        font-size: 75px;
     }
 .products_img{
     width: 400px;
     height: 300px;
 }
     .products_title p {
-        font-size: 35px;
+        font-size: 40px;
     }
     .products_description p {
-        font-size: 25px;
+        font-size: 30px;
 
     }
 
     .products_price p {
-        font-size: 30px;
+        font-size: 35px;
 
     }
 
@@ -1209,7 +1209,7 @@ li {
     }
 
     .block_contact_orange p {
-        font-size: 26px;
+        font-size: 29px;
 
     }
 
@@ -1235,7 +1235,7 @@ li {
 
     .block_contacts_item_text {
         padding-top: 10px;
-        font-size: 22px;
+        font-size: 25px;
 
     }
 }
