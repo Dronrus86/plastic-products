@@ -1052,6 +1052,7 @@ li {
         display: block;
         padding-top: 20px;
         padding-bottom: 20px;
+        font-weight: bold;
 
 
     }
@@ -1072,7 +1073,8 @@ li {
 
     .header_background_img_container_text4 {
         font-size: 40px;
-        font-weight: 400;
+        font-weight: 700;
+
 
     }
 
