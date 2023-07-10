@@ -1142,10 +1142,10 @@ li {
     .products_price p {
         text-align: center;
     }
-    .text_main span {
-        font-size: 30px;
+    /*.text_main span {*/
+    /*    font-size: 30px;*/
 
-    }
+    /*}*/
 
 
     .text_main_title span {
